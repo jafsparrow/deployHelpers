@@ -1,0 +1,262 @@
+{
+  "1": {
+    "no": 1,
+    "name": "Al Madeena",
+    "shortName": "AMFC",
+    "location": "Cherpulassery",
+    "address1": "",
+    "bodyType": "Muncipality",
+    "boyname": "Cherpulassery",
+    "district": "Palakkad"
+  },
+  "2": {
+    "no": 2,
+    "name": "Fifa Manjeri",
+    "shortName": "FMFC",
+    "location": "Manjeri",
+    "address1": "",
+    "bodyType": "Muncipality",
+    "boyname": "Majeri",
+    "district": "Malappuram"
+  },
+  "3": {
+    "no": 3,
+    "name": "Black and White",
+    "shortName": "BWFC",
+    "location": "Kozhikkode",
+    "address1": "",
+    "bodyType": "Corporation",
+    "boyname": "Kozhikkode",
+    "district": "Kozhikkode"
+  },
+  "4": {
+    "no": 4,
+    "name": "Super studio",
+    "shortName": "SSFC",
+    "location": "Malappuram",
+    "address1": "",
+    "bodyType": "Muncipality",
+    "boyname": "Malappuram",
+    "district": "Malappuram"
+  },
+  "5": {
+    "no": 5,
+    "name": "Mediguard",
+    "shortName": "MFC",
+    "location": "Areacode",
+    "address1": "",
+    "bodyType": "Grama Panchayat",
+    "boyname": "Areacode",
+    "district": "Malappuram"
+  },
+  "6": {
+    "no": 6,
+    "name": "Usha FC",
+    "shortName": "UFC",
+    "location": "Thrissur",
+    "address1": "",
+    "bodyType": "Corporation",
+    "boyname": "Thrissur",
+    "district": "Thrissur"
+  },
+  "7": {
+    "no": 7,
+    "name": "KFC Kalikavu",
+    "shortName": "KFCFC",
+    "location": "Kalikavu",
+    "address1": "",
+    "bodyType": "Muncipality",
+    "boyname": "Nilambur",
+    "district": "Malappuram"
+  },
+  "8": {
+    "no": 8,
+    "name": "Shastha Medicals FC",
+    "shortName": "SMFC",
+    "location": "Thrissur",
+    "address1": "",
+    "bodyType": "Corporation",
+    "boyname": "Thrissur",
+    "district": "Thrissur"
+  },
+  "9": {
+    "no": 9,
+    "name": "AYC Ucharakadavu",
+    "shortName": "AYCFC",
+    "location": "Ucharakadavu",
+    "address1": "",
+    "bodyType": "Muncipality",
+    "boyname": "Malappuram",
+    "district": "Malappuram"
+  },
+  "10": {
+    "no": 10,
+    "name": "Jawahar Mavoor",
+    "shortName": "JFC",
+    "location": "Mavoor",
+    "address1": "",
+    "bodyType": "Corporation",
+    "boyname": "Kozhikkode",
+    "district": "Kozhikkode"
+  },
+  "11": {
+    "no": 11,
+    "name": "Skyblue Edappal",
+    "shortName": "SEFC",
+    "location": "Edappal",
+    "address1": "",
+    "bodyType": "Grama Panchayat",
+    "boyname": "Edapal",
+    "district": "Malappuram"
+  },
+  "13": {
+    "no": 13,
+    "name": "Saban Kottakkal",
+    "shortName": "SKFC",
+    "location": "Kottakkal",
+    "address1": "",
+    "bodyType": "Muncipality",
+    "boyname": "Kottakkal",
+    "district": "Malappuram"
+  },
+  "14": {
+    "no": 14,
+    "name": "Al Shabab",
+    "shortName": "ASFC",
+    "location": "Trippanachi ",
+    "address1": "",
+    "bodyType": "Muncipality",
+    "boyname": "Majeri",
+    "district": "Malappuram"
+  },
+  "15": {
+    "no": 15,
+    "name": "Linsha Medicals",
+    "shortName": "LMFC",
+    "location": "Chirakkalpadi",
+    "address1": "",
+    "bodyType": "Muncipality",
+    "boyname": "Mannarkkad",
+    "district": "Palakkad"
+  },
+  "16": {
+    "no": 16,
+    "name": "Gymkhana",
+    "shortName": "GFC",
+    "location": "Kannur",
+    "address1": "",
+    "bodyType": "Corporation",
+    "boyname": "Kannur",
+    "district": "Kannur"
+  },
+  "18": {
+    "no": 18,
+    "name": "Lucky Soccer",
+    "shortName": "LSFC",
+    "location": "Aluva",
+    "address1": "",
+    "bodyType": "Muncipality",
+    "boyname": "Aluva",
+    "district": "Ernakulam"
+  },
+  "19": {
+    "no": 19,
+    "name": "FC Thrikkarippur",
+    "shortName": "FCT",
+    "location": "Trikaripur ",
+    "address1": "",
+    "bodyType": "Grama Panchayat",
+    "boyname": "Trikarpur",
+    "district": "Kasaragod"
+  },
+  "21": {
+    "no": 21,
+    "name": "Base Perumbavoor",
+    "shortName": "BPFC",
+    "location": "Perumbavoor",
+    "address1": "",
+    "bodyType": "Muncipality",
+    "boyname": "Perumbavoor",
+    "district": "Ernakulam"
+  },
+  "22": {
+    "no": 22,
+    "name": "Al Minhal",
+    "shortName": "AMFC",
+    "location": "Valanchery ",
+    "address1": "",
+    "bodyType": "Muncipality",
+    "boyname": "Valanchery ",
+    "district": "Malappuram"
+  },
+  "23": {
+    "no": 23,
+    "name": "Fitwell Kozhikode",
+    "shortName": "FKFC",
+    "location": "Kozhikkode",
+    "address1": "",
+    "bodyType": "Corporation",
+    "boyname": "Kozhikkode",
+    "district": "Kozhikkode"
+  },
+  "25": {
+    "no": 25,
+    "name": "Hitachi thrikarippur",
+    "shortName": "HTFC",
+    "location": "Thrikaripur",
+    "address1": "",
+    "bodyType": "Grama Panchayat",
+    "boyname": "Trikarpur",
+    "district": "Kasaragod"
+  },
+  "27": {
+    "no": 27,
+    "name": "Shooters padanna",
+    "shortName": "SPFC",
+    "location": "Padanna",
+    "address1": "",
+    "bodyType": "Grama Panchayat",
+    "boyname": "Padne",
+    "district": "Kasaragod"
+  },
+  "28": {
+    "no": 28,
+    "name": "Friends mambad",
+    "shortName": "FMFC",
+    "location": "Mambad",
+    "address1": "",
+    "bodyType": "Grama Panchayat",
+    "boyname": "Mampad",
+    "district": "Malappuram"
+  },
+  "29": {
+    "no": 29,
+    "name": "FC perinthalmanna",
+    "shortName": "FCP",
+    "location": "Perinthalmanna",
+    "address1": "",
+    "bodyType": "Muncipality",
+    "boyname": "Perinthalmanna",
+    "district": "Malappuram"
+  },
+  "30": {
+    "no": 30,
+    "name": "Abhilash FC",
+    "shortName": "AFC",
+    "location": "Kuppooth",
+    "address1": "",
+    "bodyType": "Muncipality",
+    "boyname": "Palakkad",
+    "district": "Palakkad "
+  },
+  "31": {
+    "no": 31,
+    "name": "FC Kondotty",
+    "shortName": "FCK",
+    "location": "Kondotty",
+    "address1": "",
+    "bodyType": "Grama Panchayat",
+    "boyname": "Kondotty",
+    "district": "Malappuram"
+  }
+}

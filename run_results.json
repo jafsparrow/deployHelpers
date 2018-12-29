@@ -1,0 +1,3346 @@
+{
+  "districts": [
+    {
+      "name": "Thiruvananthapuram",
+      "localBodyTypes": [
+        {
+          "name": "Municipality",
+          "localBodies": [
+            {
+              "name": "Attingal"
+            },
+            {
+              "name": "Nedumangad"
+            },
+            {
+              "name": "Neyyattinkara"
+            },
+            {
+              "name": "Varkala"
+            }
+          ]
+        },
+        {
+          "name": "Corporation",
+          "localBodies": [
+            {
+              "name": "Thiruvananthapuram"
+            }
+          ]
+        },
+        {
+          "name": "Grama Panchayat",
+          "localBodies": [
+            {
+              "name": "Amboori"
+            },
+            {
+              "name": "Anad"
+            },
+            {
+              "name": "Anchuthengu"
+            },
+            {
+              "name": "Andoorkonam"
+            },
+            {
+              "name": "Aruvikkara"
+            },
+            {
+              "name": "Aryanad"
+            },
+            {
+              "name": "Aryancode"
+            },
+            {
+              "name": "Athiyannoor"
+            },
+            {
+              "name": "Azhoor"
+            },
+            {
+              "name": "Balaramapuram"
+            },
+            {
+              "name": "Chemmaruthy"
+            },
+            {
+              "name": "Chenkal"
+            },
+            {
+              "name": "Cherunniyoor"
+            },
+            {
+              "name": "Chirayinkeezh"
+            },
+            {
+              "name": "Edava"
+            },
+            {
+              "name": "Elakamon"
+            },
+            {
+              "name": "Kadakkavoor"
+            },
+            {
+              "name": "Kadinamkulam"
+            },
+            {
+              "name": "Kallara"
+            },
+            {
+              "name": "Kallikkadu"
+            },
+            {
+              "name": "Kalliyoor"
+            },
+            {
+              "name": "Kanjiramkulam"
+            },
+            {
+              "name": "Karakulam"
+            },
+            {
+              "name": "Karavaram"
+            },
+            {
+              "name": "Karode"
+            },
+            {
+              "name": "Karumkulam"
+            },
+            {
+              "name": "Kattakada"
+            },
+            {
+              "name": "Kilimanoor"
+            },
+            {
+              "name": "Kizhuvilam"
+            },
+            {
+              "name": "Kollayil"
+            },
+            {
+              "name": "Kottukal"
+            },
+            {
+              "name": "Kulathoor"
+            },
+            {
+              "name": "Kunnathukal"
+            },
+            {
+              "name": "Kuttichal"
+            },
+            {
+              "name": "Madavoor"
+            },
+            {
+              "name": "Malayinkeezh"
+            },
+            {
+              "name": "Manamboor"
+            },
+            {
+              "name": "Mangalapuram"
+            },
+            {
+              "name": "Manickal"
+            },
+            {
+              "name": "Maranalloor"
+            },
+            {
+              "name": "Mudakkal"
+            },
+            {
+              "name": "Nagaroor"
+            },
+            {
+              "name": "Nanniyode"
+            },
+            {
+              "name": "Navaikulam"
+            },
+            {
+              "name": "Nellanad"
+            },
+            {
+              "name": "Ottasekharamangalam"
+            },
+            {
+              "name": "Ottoor"
+            },
+            {
+              "name": "Pallichal"
+            },
+            {
+              "name": "Pallickal"
+            },
+            {
+              "name": "Panavoor"
+            },
+            {
+              "name": "Pangode"
+            },
+            {
+              "name": "Parassala"
+            },
+            {
+              "name": "Pazhayakunnumel"
+            },
+            {
+              "name": "Peringammala"
+            },
+            {
+              "name": "Perumkadavila"
+            },
+            {
+              "name": "Poovachal"
+            },
+            {
+              "name": "Poovar"
+            },
+            {
+              "name": "Pothencode"
+            },
+            {
+              "name": "Pulimath"
+            },
+            {
+              "name": "Pullampara"
+            },
+            {
+              "name": "Thirupuram"
+            },
+            {
+              "name": "Tholicode"
+            },
+            {
+              "name": "Uzhamalakkal"
+            },
+            {
+              "name": "Vakkom"
+            },
+            {
+              "name": "Vamanapuram"
+            },
+            {
+              "name": "Vellanad"
+            },
+            {
+              "name": "Vellarada"
+            },
+            {
+              "name": "Vembayam"
+            },
+            {
+              "name": "Venganoor"
+            },
+            {
+              "name": "Vettoor"
+            },
+            {
+              "name": "Vilappil"
+            },
+            {
+              "name": "Vilavoorkal"
+            },
+            {
+              "name": "Vithura"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Kollam",
+      "localBodyTypes": [
+        {
+          "name": "Municipality",
+          "localBodies": [
+            {
+              "name": "Karunagappally"
+            },
+            {
+              "name": "Kottarakara"
+            },
+            {
+              "name": "Paravur"
+            },
+            {
+              "name": "Punalur"
+            }
+          ]
+        },
+        {
+          "name": "Corporation",
+          "localBodies": [
+            {
+              "name": "Kollam"
+            }
+          ]
+        },
+        {
+          "name": "Grama Panchayat",
+          "localBodies": [
+            {
+              "name": "Adichanalloor"
+            },
+            {
+              "name": "Alappad"
+            },
+            {
+              "name": "Alayamon"
+            },
+            {
+              "name": "Anchal"
+            },
+            {
+              "name": "Aryankavu"
+            },
+            {
+              "name": "Chadayamangalam"
+            },
+            {
+              "name": "Chathannoor"
+            },
+            {
+              "name": "Chavara"
+            },
+            {
+              "name": "Chirakkara"
+            },
+            {
+              "name": "Chithara"
+            },
+            {
+              "name": "Clappana"
+            },
+            {
+              "name": "East Kallada"
+            },
+            {
+              "name": "Edamulackal"
+            },
+            {
+              "name": "Elamadu"
+            },
+            {
+              "name": "Elampalloor"
+            },
+            {
+              "name": "Ezhukone"
+            },
+            {
+              "name": "Ittiva"
+            },
+            {
+              "name": "Kadakkal"
+            },
+            {
+              "name": "Kalluvathukkal"
+            },
+            {
+              "name": "Karavaloor"
+            },
+            {
+              "name": "Kareepra"
+            },
+            {
+              "name": "Kottamkara"
+            },
+            {
+              "name": "Kulakkada"
+            },
+            {
+              "name": "Kulasekharapuram"
+            },
+            {
+              "name": "Kulathupuzha"
+            },
+            {
+              "name": "Kummil"
+            },
+            {
+              "name": "Kundara"
+            },
+            {
+              "name": "Kunnathoor"
+            },
+            {
+              "name": "Mayyanad"
+            },
+            {
+              "name": "Melila"
+            },
+            {
+              "name": "Munroethuruth"
+            },
+            {
+              "name": "Mylom"
+            },
+            {
+              "name": "Mynagappally"
+            },
+            {
+              "name": "Nedumpana"
+            },
+            {
+              "name": "Neduvathoor"
+            },
+            {
+              "name": "Neendakara"
+            },
+            {
+              "name": "Nilamel"
+            },
+            {
+              "name": "Oachira"
+            },
+            {
+              "name": "Panayam"
+            },
+            {
+              "name": "Panmana"
+            },
+            {
+              "name": "Pathanapuram"
+            },
+            {
+              "name": "Pattazhi"
+            },
+            {
+              "name": "Pattazhi Vadakkekara"
+            },
+            {
+              "name": "Pavithreswaram"
+            },
+            {
+              "name": "Perayam"
+            },
+            {
+              "name": "Perinad"
+            },
+            {
+              "name": "Piravanthoor"
+            },
+            {
+              "name": "Poothakulam"
+            },
+            {
+              "name": "Pooyappally"
+            },
+            {
+              "name": "Poruvazhy"
+            },
+            {
+              "name": "Sasthamcotta"
+            },
+            {
+              "name": "Sooranad North"
+            },
+            {
+              "name": "Sooranad South"
+            },
+            {
+              "name": "Thalavoor"
+            },
+            {
+              "name": "Thazhava"
+            },
+            {
+              "name": "Thekkumbhagom"
+            },
+            {
+              "name": "Thenmala"
+            },
+            {
+              "name": "Thevalakkara"
+            },
+            {
+              "name": "Thodiyoor"
+            },
+            {
+              "name": "Thrikkaruva"
+            },
+            {
+              "name": "Thrikkovilvattom"
+            },
+            {
+              "name": "Ummannoor"
+            },
+            {
+              "name": "Velinalloor"
+            },
+            {
+              "name": "Veliyam"
+            },
+            {
+              "name": "Vettikavala"
+            },
+            {
+              "name": "Vilakkudy"
+            },
+            {
+              "name": "West Kallada"
+            },
+            {
+              "name": "Yeroor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Pathanamthitta",
+      "localBodyTypes": [
+        {
+          "name": "Municipality",
+          "localBodies": [
+            {
+              "name": "Adoor"
+            },
+            {
+              "name": "Pandalam"
+            },
+            {
+              "name": "Pathanamthitta"
+            },
+            {
+              "name": "Thiruvalla"
+            }
+          ]
+        },
+        {
+          "name": "Grama Panchayat",
+          "localBodies": [
+            {
+              "name": "Anicadu"
+            },
+            {
+              "name": "Aranmula"
+            },
+            {
+              "name": "Aruvappulam"
+            },
+            {
+              "name": "Ayroor"
+            },
+            {
+              "name": "Chenneerkara"
+            },
+            {
+              "name": "Cherukole"
+            },
+            {
+              "name": "Chittar"
+            },
+            {
+              "name": "Elanthoor"
+            },
+            {
+              "name": "Enadimangalam"
+            },
+            {
+              "name": "Erathu"
+            },
+            {
+              "name": "Eraviperoor"
+            },
+            {
+              "name": "Ezhamkulam"
+            },
+            {
+              "name": "Ezhumattoor"
+            },
+            {
+              "name": "Kadampanad"
+            },
+            {
+              "name": "Kadapra"
+            },
+            {
+              "name": "Kalanjoor"
+            },
+            {
+              "name": "Kallooppara"
+            },
+            {
+              "name": "Kaviyoor"
+            },
+            {
+              "name": "Kodumon"
+            },
+            {
+              "name": "Koipuram"
+            },
+            {
+              "name": "Konni"
+            },
+            {
+              "name": "Kottanad"
+            },
+            {
+              "name": "Kottangal"
+            },
+            {
+              "name": "Kozhencherry"
+            },
+            {
+              "name": "Kulanada"
+            },
+            {
+              "name": "Kunnamthanam"
+            },
+            {
+              "name": "Kuttoor"
+            },
+            {
+              "name": "Malayalapuzha"
+            },
+            {
+              "name": "Mallappally"
+            },
+            {
+              "name": "Mallappuzhassery"
+            },
+            {
+              "name": "Mezhuveli"
+            },
+            {
+              "name": "Mylapra"
+            },
+            {
+              "name": "Naranammoozhy"
+            },
+            {
+              "name": "Naranganam"
+            },
+            {
+              "name": "Nedumpuram"
+            },
+            {
+              "name": "Niranam"
+            },
+            {
+              "name": "Omalloor"
+            },
+            {
+              "name": "Pallickal"
+            },
+            {
+              "name": "Pandalam Thekkekara"
+            },
+            {
+              "name": "Peringara"
+            },
+            {
+              "name": "Pramadom"
+            },
+            {
+              "name": "Puramattom"
+            },
+            {
+              "name": "Ranni"
+            },
+            {
+              "name": "Ranni Angadi"
+            },
+            {
+              "name": "Ranni Pazhavangadi"
+            },
+            {
+              "name": "Ranni Perunad"
+            },
+            {
+              "name": "Seethathodu"
+            },
+            {
+              "name": "Thannithodu"
+            },
+            {
+              "name": "Thottappuzhassery"
+            },
+            {
+              "name": "Thumpamon"
+            },
+            {
+              "name": "Vadaserikara"
+            },
+            {
+              "name": "Vallicode"
+            },
+            {
+              "name": "Vechoochira"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Alappuzha",
+      "localBodyTypes": [
+        {
+          "name": "Municipality",
+          "localBodies": [
+            {
+              "name": "Alappuzha"
+            },
+            {
+              "name": "Chengannur"
+            },
+            {
+              "name": "Cherthala"
+            },
+            {
+              "name": "Haripad"
+            },
+            {
+              "name": "Kayamkulam"
+            },
+            {
+              "name": "Mavelikara"
+            }
+          ]
+        },
+        {
+          "name": "Grama Panchayat",
+          "localBodies": [
+            {
+              "name": "Ala"
+            },
+            {
+              "name": "Ambalappuzha North"
+            },
+            {
+              "name": "Ambalappuzha South"
+            },
+            {
+              "name": "Arattupuzha"
+            },
+            {
+              "name": "Arookutty"
+            },
+            {
+              "name": "Aroor"
+            },
+            {
+              "name": "Aryad"
+            },
+            {
+              "name": "Bharanickavu"
+            },
+            {
+              "name": "Budhanoor"
+            },
+            {
+              "name": "Champakulam"
+            },
+            {
+              "name": "Chennam Pallippuram"
+            },
+            {
+              "name": "Chennithala-Thripperumthura"
+            },
+            {
+              "name": "Cheppad"
+            },
+            {
+              "name": "Cheriyanad"
+            },
+            {
+              "name": "Cherthala South"
+            },
+            {
+              "name": "Cheruthana"
+            },
+            {
+              "name": "Chettikulangara"
+            },
+            {
+              "name": "Chingoli"
+            },
+            {
+              "name": "Chunakara"
+            },
+            {
+              "name": "Devikulangara"
+            },
+            {
+              "name": "Edathua"
+            },
+            {
+              "name": "Ezhupunna"
+            },
+            {
+              "name": "Kadakkarappally"
+            },
+            {
+              "name": "Kainakary"
+            },
+            {
+              "name": "Kandalloor"
+            },
+            {
+              "name": "Kanjikuzhy"
+            },
+            {
+              "name": "Karthikappally"
+            },
+            {
+              "name": "Karuvatta"
+            },
+            {
+              "name": "Kavalam"
+            },
+            {
+              "name": "Kodamthuruthu"
+            },
+            {
+              "name": "Krishnapuram"
+            },
+            {
+              "name": "Kumarapuram"
+            },
+            {
+              "name": "Kuthiathod"
+            },
+            {
+              "name": "Mannancherry"
+            },
+            {
+              "name": "Mannar"
+            },
+            {
+              "name": "Mararikulam North"
+            },
+            {
+              "name": "Mararikulam South"
+            },
+            {
+              "name": "Mavelikara Thamarakulam"
+            },
+            {
+              "name": "Mavelikara Thekkekara"
+            },
+            {
+              "name": "Muhamma"
+            },
+            {
+              "name": "Mulakuzha"
+            },
+            {
+              "name": "Muthukulam"
+            },
+            {
+              "name": "Muttar"
+            },
+            {
+              "name": "Nedumudi"
+            },
+            {
+              "name": "Neelamperoor"
+            },
+            {
+              "name": "Nooranad"
+            },
+            {
+              "name": "Palamel"
+            },
+            {
+              "name": "Pallippad"
+            },
+            {
+              "name": "Panavally"
+            },
+            {
+              "name": "Pandanad"
+            },
+            {
+              "name": "Pathiyoor"
+            },
+            {
+              "name": "Pattanakkad"
+            },
+            {
+              "name": "Perumpalam"
+            },
+            {
+              "name": "Pulincunnoo"
+            },
+            {
+              "name": "Puliyoor"
+            },
+            {
+              "name": "Punnapra North"
+            },
+            {
+              "name": "Punnapra South"
+            },
+            {
+              "name": "Purakkad"
+            },
+            {
+              "name": "Ramankary"
+            },
+            {
+              "name": "Thaicattussery"
+            },
+            {
+              "name": "Thakazhy"
+            },
+            {
+              "name": "Thalavady"
+            },
+            {
+              "name": "Thanneermukkom"
+            },
+            {
+              "name": "Thazhakara"
+            },
+            {
+              "name": "Thiruvanvandoor"
+            },
+            {
+              "name": "Thrikkunnappuzha"
+            },
+            {
+              "name": "Thuravoor"
+            },
+            {
+              "name": "Vallikunnam"
+            },
+            {
+              "name": "Vayalar"
+            },
+            {
+              "name": "Veeyapuram"
+            },
+            {
+              "name": "Veliyanad"
+            },
+            {
+              "name": "Venmony"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Kottayam",
+      "localBodyTypes": [
+        {
+          "name": "Municipality",
+          "localBodies": [
+            {
+              "name": "Changanaseri"
+            },
+            {
+              "name": "Erattupetta"
+            },
+            {
+              "name": "Ettumanoor"
+            },
+            {
+              "name": "Kottayam"
+            },
+            {
+              "name": "Pala"
+            },
+            {
+              "name": "Vaikom"
+            }
+          ]
+        },
+        {
+          "name": "Grama Panchayat",
+          "localBodies": [
+            {
+              "name": "Akalakunnam"
+            },
+            {
+              "name": "Arpookara"
+            },
+            {
+              "name": "Athirampuzha"
+            },
+            {
+              "name": "Ayarkunnam"
+            },
+            {
+              "name": "Aymanam"
+            },
+            {
+              "name": "Bharananganam"
+            },
+            {
+              "name": "Chempu"
+            },
+            {
+              "name": "Chirakkadavu"
+            },
+            {
+              "name": "Elikulam"
+            },
+            {
+              "name": "Erumeli"
+            },
+            {
+              "name": "Kadanad"
+            },
+            {
+              "name": "Kadaplamattom"
+            },
+            {
+              "name": "Kaduthuruthy"
+            },
+            {
+              "name": "Kallara"
+            },
+            {
+              "name": "Kanakkary"
+            },
+            {
+              "name": "Kangazha"
+            },
+            {
+              "name": "Kanjirappally"
+            },
+            {
+              "name": "Karoor"
+            },
+            {
+              "name": "Karukachal"
+            },
+            {
+              "name": "Kidangoor"
+            },
+            {
+              "name": "Kooroppada"
+            },
+            {
+              "name": "Koottickal"
+            },
+            {
+              "name": "Koruthodu"
+            },
+            {
+              "name": "Kozhuvanal"
+            },
+            {
+              "name": "Kumarakam"
+            },
+            {
+              "name": "Kuravilangad"
+            },
+            {
+              "name": "Kurichy"
+            },
+            {
+              "name": "Madappally"
+            },
+            {
+              "name": "Manarcad"
+            },
+            {
+              "name": "Manimala"
+            },
+            {
+              "name": "Manjoor"
+            },
+            {
+              "name": "Marangattupilly"
+            },
+            {
+              "name": "Maravanthuruthu"
+            },
+            {
+              "name": "Meenachil"
+            },
+            {
+              "name": "Meenadom"
+            },
+            {
+              "name": "Melukavu"
+            },
+            {
+              "name": "Moonnilavu"
+            },
+            {
+              "name": "Mulakulam"
+            },
+            {
+              "name": "Mundakayam"
+            },
+            {
+              "name": "Mutholy"
+            },
+            {
+              "name": "Nedumkunnam"
+            },
+            {
+              "name": "Neendoor"
+            },
+            {
+              "name": "Neezhoor"
+            },
+            {
+              "name": "Paippad"
+            },
+            {
+              "name": "Pallikkathode"
+            },
+            {
+              "name": "Pampady"
+            },
+            {
+              "name": "Panachikkad"
+            },
+            {
+              "name": "Parathodu"
+            },
+            {
+              "name": "Poonjar"
+            },
+            {
+              "name": "Poonjar Thekkekara"
+            },
+            {
+              "name": "Puthuppally"
+            },
+            {
+              "name": "Ramapuram"
+            },
+            {
+              "name": "Teekoy"
+            },
+            {
+              "name": "Thalanad"
+            },
+            {
+              "name": "Thalappalam"
+            },
+            {
+              "name": "Thalayazham"
+            },
+            {
+              "name": "Thalayolaparambu"
+            },
+            {
+              "name": "Thidanad"
+            },
+            {
+              "name": "Thiruvarppu"
+            },
+            {
+              "name": "Thrickodithanam"
+            },
+            {
+              "name": "TV Puram"
+            },
+            {
+              "name": "Udayanapuram"
+            },
+            {
+              "name": "Uzhavoor"
+            },
+            {
+              "name": "Vakathanam"
+            },
+            {
+              "name": "Vazhappally"
+            },
+            {
+              "name": "Vazhoor"
+            },
+            {
+              "name": "Vechoor"
+            },
+            {
+              "name": "Veliyannoor"
+            },
+            {
+              "name": "Vellavoor"
+            },
+            {
+              "name": "Velloor"
+            },
+            {
+              "name": "Vijayapuram"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Idukki",
+      "localBodyTypes": [
+        {
+          "name": "Municipality",
+          "localBodies": [
+            {
+              "name": "Kattappana"
+            },
+            {
+              "name": "Thodupuzha"
+            }
+          ]
+        },
+        {
+          "name": "Grama Panchayat",
+          "localBodies": [
+            {
+              "name": "Adimaly"
+            },
+            {
+              "name": "Alakode"
+            },
+            {
+              "name": "Arakulam"
+            },
+            {
+              "name": "Ayyappan Coil"
+            },
+            {
+              "name": "Byson Valley"
+            },
+            {
+              "name": "Chakkupallam"
+            },
+            {
+              "name": "Chinnakanal"
+            },
+            {
+              "name": "Devikulam"
+            },
+            {
+              "name": "Edamalakkudy"
+            },
+            {
+              "name": "Edavetty"
+            },
+            {
+              "name": "Elappara"
+            },
+            {
+              "name": "Erattayar"
+            },
+            {
+              "name": "Idukki Kanjikuzhy"
+            },
+            {
+              "name": "Kamakshy"
+            },
+            {
+              "name": "Kanchiyar"
+            },
+            {
+              "name": "Kanthalloor"
+            },
+            {
+              "name": "Karimannoor"
+            },
+            {
+              "name": "Karimkunnam"
+            },
+            {
+              "name": "Karunapuram"
+            },
+            {
+              "name": "Kodikulam"
+            },
+            {
+              "name": "Kokkayar"
+            },
+            {
+              "name": "Konnathady"
+            },
+            {
+              "name": "Kudayathoor"
+            },
+            {
+              "name": "Kumaramangalam"
+            },
+            {
+              "name": "Kumily"
+            },
+            {
+              "name": "Manakkad"
+            },
+            {
+              "name": "Mankulam"
+            },
+            {
+              "name": "Marayoor"
+            },
+            {
+              "name": "Mariyapuram"
+            },
+            {
+              "name": "Munnar"
+            },
+            {
+              "name": "Muttom"
+            },
+            {
+              "name": "Nedumkandam"
+            },
+            {
+              "name": "Pallivasal"
+            },
+            {
+              "name": "Pampadumpara"
+            },
+            {
+              "name": "Peermade"
+            },
+            {
+              "name": "Peruvanthanam"
+            },
+            {
+              "name": "Purapuzha"
+            },
+            {
+              "name": "Rajakkad"
+            },
+            {
+              "name": "Rajakumary"
+            },
+            {
+              "name": "Santhanpara"
+            },
+            {
+              "name": "Senapathy"
+            },
+            {
+              "name": "Udumbanchola"
+            },
+            {
+              "name": "Udumbanoor"
+            },
+            {
+              "name": "Upputhara"
+            },
+            {
+              "name": "Vandanmedu"
+            },
+            {
+              "name": "Vandiperiyar"
+            },
+            {
+              "name": "Vannappuram"
+            },
+            {
+              "name": "Vathikudy"
+            },
+            {
+              "name": "Vattavada"
+            },
+            {
+              "name": "Vazhathope"
+            },
+            {
+              "name": "Vellathooval"
+            },
+            {
+              "name": "Velliyamattom"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ernakulam",
+      "localBodyTypes": [
+        {
+          "name": "Municipality",
+          "localBodies": [
+            {
+              "name": "Aluva"
+            },
+            {
+              "name": "Angamaly"
+            },
+            {
+              "name": "Eloor"
+            },
+            {
+              "name": "Kalamassery"
+            },
+            {
+              "name": "Koothattukulam"
+            },
+            {
+              "name": "Kothamangalam"
+            },
+            {
+              "name": "Maradu"
+            },
+            {
+              "name": "Muvattupuzha"
+            },
+            {
+              "name": "North Paravur"
+            },
+            {
+              "name": "Perumbavoor"
+            },
+            {
+              "name": "Piravom"
+            },
+            {
+              "name": "Thrikkakara"
+            },
+            {
+              "name": "Tripunithura"
+            }
+          ]
+        },
+        {
+          "name": "Grama Panchayat",
+          "localBodies": [
+            {
+              "name": "Aikaranad"
+            },
+            {
+              "name": "Alangad"
+            },
+            {
+              "name": "Amballoor"
+            },
+            {
+              "name": "Arakuzha"
+            },
+            {
+              "name": "Asamannoor"
+            },
+            {
+              "name": "Avoly"
+            },
+            {
+              "name": "Ayavana"
+            },
+            {
+              "name": "Ayyampuzha"
+            },
+            {
+              "name": "Chellanam"
+            },
+            {
+              "name": "Chendamangalam"
+            },
+            {
+              "name": "Chengamanad"
+            },
+            {
+              "name": "Cheranalloor"
+            },
+            {
+              "name": "Chittattukara"
+            },
+            {
+              "name": "Choornikkara"
+            },
+            {
+              "name": "Chottanikkara"
+            },
+            {
+              "name": "Edakkattuvayal"
+            },
+            {
+              "name": "Edathala"
+            },
+            {
+              "name": "Edavanakkad"
+            },
+            {
+              "name": "Elanji"
+            },
+            {
+              "name": "Elankunnapuzha"
+            },
+            {
+              "name": "Ezhikkara"
+            },
+            {
+              "name": "Kadamakudy"
+            },
+            {
+              "name": "Kadungalloor"
+            },
+            {
+              "name": "Kalady"
+            },
+            {
+              "name": "Kalloorkad"
+            },
+            {
+              "name": "Kanjoor"
+            },
+            {
+              "name": "Karukutty"
+            },
+            {
+              "name": "Karumallur"
+            },
+            {
+              "name": "Kavalangad"
+            },
+            {
+              "name": "Keerampara"
+            },
+            {
+              "name": "Keezhmad"
+            },
+            {
+              "name": "Kizhakkambalam"
+            },
+            {
+              "name": "Koovappady"
+            },
+            {
+              "name": "Kottappady"
+            },
+            {
+              "name": "Kottuvally"
+            },
+            {
+              "name": "Kumbalam"
+            },
+            {
+              "name": "Kumbalanghi"
+            },
+            {
+              "name": "Kunnathunad"
+            },
+            {
+              "name": "Kunnukara"
+            },
+            {
+              "name": "Kuttampuzha"
+            },
+            {
+              "name": "Kuzhuppilly"
+            },
+            {
+              "name": "Malayattoor Neeleeswaram"
+            },
+            {
+              "name": "Maneed"
+            },
+            {
+              "name": "Manjalloor"
+            },
+            {
+              "name": "Manjapra"
+            },
+            {
+              "name": "Marady"
+            },
+            {
+              "name": "Mazhuvannoor"
+            },
+            {
+              "name": "Mookkannur"
+            },
+            {
+              "name": "Mudakuzha"
+            },
+            {
+              "name": "Mulanthuruthy"
+            },
+            {
+              "name": "Mulavukad"
+            },
+            {
+              "name": "Narakal"
+            },
+            {
+              "name": "Nayarambalam"
+            },
+            {
+              "name": "Nedumbassery"
+            },
+            {
+              "name": "Nellikuzhi"
+            },
+            {
+              "name": "Okkal"
+            },
+            {
+              "name": "Paingottoor"
+            },
+            {
+              "name": "Paipra"
+            },
+            {
+              "name": "Palakuzha"
+            },
+            {
+              "name": "Pallarimangalam"
+            },
+            {
+              "name": "Pallippuram"
+            },
+            {
+              "name": "Pampakuda"
+            },
+            {
+              "name": "Parakkadavu"
+            },
+            {
+              "name": "Pindimana"
+            },
+            {
+              "name": "Poothrikka"
+            },
+            {
+              "name": "Pothanicad"
+            },
+            {
+              "name": "Puthenvelikkara"
+            },
+            {
+              "name": "Ramamangalam"
+            },
+            {
+              "name": "Rayamangalam"
+            },
+            {
+              "name": "Sreemoolanagaram"
+            },
+            {
+              "name": "Thirumarady"
+            },
+            {
+              "name": "Thiruvaniyoor"
+            },
+            {
+              "name": "Thuravoor"
+            },
+            {
+              "name": "Udayamperoor"
+            },
+            {
+              "name": "Vadakkekkara"
+            },
+            {
+              "name": "Vadavucode Puthencruz"
+            },
+            {
+              "name": "Valakom"
+            },
+            {
+              "name": "Varappetty"
+            },
+            {
+              "name": "Varapuzha"
+            },
+            {
+              "name": "Vazhakulam"
+            },
+            {
+              "name": "Vengola"
+            },
+            {
+              "name": "Vengoor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Thrissur",
+      "localBodyTypes": [
+        {
+          "name": "Municipality",
+          "localBodies": [
+            {
+              "name": "Chalakudy"
+            },
+            {
+              "name": "Chavakkad"
+            },
+            {
+              "name": "Guruvayur"
+            },
+            {
+              "name": "Irinjalakuda"
+            },
+            {
+              "name": "Kodungallur"
+            },
+            {
+              "name": "Kunnamkulam"
+            },
+            {
+              "name": "Wadakanchery"
+            }
+          ]
+        },
+        {
+          "name": "Corporation",
+          "localBodies": [
+            {
+              "name": "Thrissur"
+            }
+          ]
+        },
+        {
+          "name": "Grama Panchayat",
+          "localBodies": [
+            {
+              "name": "Adat"
+            },
+            {
+              "name": "Alagappanagar"
+            },
+            {
+              "name": "Aloor"
+            },
+            {
+              "name": "Annamanada"
+            },
+            {
+              "name": "Anthikad"
+            },
+            {
+              "name": "Arimpur"
+            },
+            {
+              "name": "Athirappilly"
+            },
+            {
+              "name": "Avanur"
+            },
+            {
+              "name": "Avinissery"
+            },
+            {
+              "name": "Chazhur"
+            },
+            {
+              "name": "Chelakkara"
+            },
+            {
+              "name": "Cherpu"
+            },
+            {
+              "name": "Choondal"
+            },
+            {
+              "name": "Chowannur"
+            },
+            {
+              "name": "Desamangalam"
+            },
+            {
+              "name": "Edathiruthy"
+            },
+            {
+              "name": "Edavilangu"
+            },
+            {
+              "name": "Elavally"
+            },
+            {
+              "name": "Engandiyur"
+            },
+            {
+              "name": "Eriyad"
+            },
+            {
+              "name": "Erumapetty"
+            },
+            {
+              "name": "Kadangode"
+            },
+            {
+              "name": "Kadappuram"
+            },
+            {
+              "name": "Kadavallur"
+            },
+            {
+              "name": "Kadukutty"
+            },
+            {
+              "name": "Kaipamangalam"
+            },
+            {
+              "name": "Kaiparambu"
+            },
+            {
+              "name": "Kandanassery"
+            },
+            {
+              "name": "Karalam"
+            },
+            {
+              "name": "Kattakampal"
+            },
+            {
+              "name": "Kattoor"
+            },
+            {
+              "name": "Kodakara"
+            },
+            {
+              "name": "Kodassery"
+            },
+            {
+              "name": "Kolazhy"
+            },
+            {
+              "name": "Kondazhy"
+            },
+            {
+              "name": "Koratty"
+            },
+            {
+              "name": "Kuzhur"
+            },
+            {
+              "name": "Madakkathara"
+            },
+            {
+              "name": "Mala"
+            },
+            {
+              "name": "Manalur"
+            },
+            {
+              "name": "Mathilakam"
+            },
+            {
+              "name": "Mattathur"
+            },
+            {
+              "name": "Meloor"
+            },
+            {
+              "name": "Mulakunnathukavu"
+            },
+            {
+              "name": "Mullassery"
+            },
+            {
+              "name": "Mullurkara"
+            },
+            {
+              "name": "Muriyad"
+            },
+            {
+              "name": "Nadathara"
+            },
+            {
+              "name": "Nattika"
+            },
+            {
+              "name": "Nenmanikkara"
+            },
+            {
+              "name": "Orumanayur"
+            },
+            {
+              "name": "Padiyur"
+            },
+            {
+              "name": "Pananchery"
+            },
+            {
+              "name": "Panjal"
+            },
+            {
+              "name": "Paralam"
+            },
+            {
+              "name": "Parappukkara"
+            },
+            {
+              "name": "Pariyaram"
+            },
+            {
+              "name": "Pavaratty"
+            },
+            {
+              "name": "Pazhayannur"
+            },
+            {
+              "name": "Perinjanam"
+            },
+            {
+              "name": "Poomangalam"
+            },
+            {
+              "name": "Porkulam"
+            },
+            {
+              "name": "Poyya"
+            },
+            {
+              "name": "Pudukad"
+            },
+            {
+              "name": "Punnayur"
+            },
+            {
+              "name": "Punnayurkulam"
+            },
+            {
+              "name": "Puthenchira"
+            },
+            {
+              "name": "Puthur"
+            },
+            {
+              "name": "Sreenarayanapuram"
+            },
+            {
+              "name": "Thalikulam"
+            },
+            {
+              "name": "Thanniyam"
+            },
+            {
+              "name": "Thekkumkara"
+            },
+            {
+              "name": "Thiruvilwamala"
+            },
+            {
+              "name": "Tholur"
+            },
+            {
+              "name": "Thrikkur"
+            },
+            {
+              "name": "Vadakkekkad"
+            },
+            {
+              "name": "Valapad"
+            },
+            {
+              "name": "Vallachira"
+            },
+            {
+              "name": "Vallathol Nagar"
+            },
+            {
+              "name": "Varandarappilly"
+            },
+            {
+              "name": "Varavoor"
+            },
+            {
+              "name": "Vatanappally"
+            },
+            {
+              "name": "Vellangallur"
+            },
+            {
+              "name": "Velukara"
+            },
+            {
+              "name": "Velur"
+            },
+            {
+              "name": "Venkitangu"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Palakkad",
+      "localBodyTypes": [
+        {
+          "name": "Municipality",
+          "localBodies": [
+            {
+              "name": "Cherpulassery"
+            },
+            {
+              "name": "Chittur Tattamangalam"
+            },
+            {
+              "name": "Mannarkad"
+            },
+            {
+              "name": "Ottapalam"
+            },
+            {
+              "name": "Palakkad"
+            },
+            {
+              "name": "Pattambi"
+            },
+            {
+              "name": "Shoranur"
+            }
+          ]
+        },
+        {
+          "name": "Grama Panchayat",
+          "localBodies": [
+            {
+              "name": "Agali"
+            },
+            {
+              "name": "Akathethara"
+            },
+            {
+              "name": "Alanallur"
+            },
+            {
+              "name": "Alathur"
+            },
+            {
+              "name": "Ambalappara"
+            },
+            {
+              "name": "Anakkara"
+            },
+            {
+              "name": "Ananganadi"
+            },
+            {
+              "name": "Ayalur"
+            },
+            {
+              "name": "Chalavara"
+            },
+            {
+              "name": "Chalissery"
+            },
+            {
+              "name": "Elappully"
+            },
+            {
+              "name": "Elavancherry"
+            },
+            {
+              "name": "Erimayur"
+            },
+            {
+              "name": "Eruthenpathy"
+            },
+            {
+              "name": "Kadampazhipuram"
+            },
+            {
+              "name": "Kanhirapuzha"
+            },
+            {
+              "name": "Kannadi"
+            },
+            {
+              "name": "Kannambra"
+            },
+            {
+              "name": "Kappur"
+            },
+            {
+              "name": "Karakurussi"
+            },
+            {
+              "name": "Karimba"
+            },
+            {
+              "name": "Karimpuzha"
+            },
+            {
+              "name": "Kavassery"
+            },
+            {
+              "name": "Keralassery"
+            },
+            {
+              "name": "Kizhakkencherry"
+            },
+            {
+              "name": "Kodumbu"
+            },
+            {
+              "name": "Koduvayur"
+            },
+            {
+              "name": "Kollengode"
+            },
+            {
+              "name": "Kongad"
+            },
+            {
+              "name": "Koppam"
+            },
+            {
+              "name": "Kottayi"
+            },
+            {
+              "name": "Kottopadam"
+            },
+            {
+              "name": "Kozhinjampara"
+            },
+            {
+              "name": "Kulukkallur"
+            },
+            {
+              "name": "Kumaramputhur"
+            },
+            {
+              "name": "Kuthanur"
+            },
+            {
+              "name": "Kuzhalmannam"
+            },
+            {
+              "name": "Lakkidi - Perur"
+            },
+            {
+              "name": "Malampuzha"
+            },
+            {
+              "name": "Mankara"
+            },
+            {
+              "name": "Mannur"
+            },
+            {
+              "name": "Marutharode"
+            },
+            {
+              "name": "Mathur"
+            },
+            {
+              "name": "Melarcode"
+            },
+            {
+              "name": "Mundur"
+            },
+            {
+              "name": "Muthalamada"
+            },
+            {
+              "name": "Muthuthala"
+            },
+            {
+              "name": "Nagalassery"
+            },
+            {
+              "name": "Nallepilly"
+            },
+            {
+              "name": "Nellaya"
+            },
+            {
+              "name": "Nelliyampathy"
+            },
+            {
+              "name": "Nemmara"
+            },
+            {
+              "name": "Ongallur"
+            },
+            {
+              "name": "Pallassana"
+            },
+            {
+              "name": "Parali"
+            },
+            {
+              "name": "Paruthur"
+            },
+            {
+              "name": "Pattanchery"
+            },
+            {
+              "name": "Pattithara"
+            },
+            {
+              "name": "Peringottukurissi"
+            },
+            {
+              "name": "Perumatty"
+            },
+            {
+              "name": "Peruvemba"
+            },
+            {
+              "name": "Pirayiri"
+            },
+            {
+              "name": "Polpully"
+            },
+            {
+              "name": "Pookkottukavu"
+            },
+            {
+              "name": "Puducode"
+            },
+            {
+              "name": "Pudunagaram"
+            },
+            {
+              "name": "Puduppariyaram"
+            },
+            {
+              "name": "Pudur"
+            },
+            {
+              "name": "Pudusseri"
+            },
+            {
+              "name": "Sholayoor"
+            },
+            {
+              "name": "Sreekrishnapuram"
+            },
+            {
+              "name": "Tachampara"
+            },
+            {
+              "name": "Tarur"
+            },
+            {
+              "name": "Thachanattukara"
+            },
+            {
+              "name": "Thenkara"
+            },
+            {
+              "name": "Thenkurissi"
+            },
+            {
+              "name": "Thirumittacode"
+            },
+            {
+              "name": "Thiruvegappura"
+            },
+            {
+              "name": "Trikkaderi"
+            },
+            {
+              "name": "Trithala"
+            },
+            {
+              "name": "Vadakarapathy"
+            },
+            {
+              "name": "Vadakkenchery"
+            },
+            {
+              "name": "Vadavannur"
+            },
+            {
+              "name": "Vallapuzha"
+            },
+            {
+              "name": "Vandazhy"
+            },
+            {
+              "name": "Vaniamkulam"
+            },
+            {
+              "name": "Vellinezhi"
+            },
+            {
+              "name": "Vilayur"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Malappuram",
+      "localBodyTypes": [
+        {
+          "name": "Municipality",
+          "localBodies": [
+            {
+              "name": "Kondotty"
+            },
+            {
+              "name": "Kottakkal"
+            },
+            {
+              "name": "Malappuram"
+            },
+            {
+              "name": "Manjeri"
+            },
+            {
+              "name": "Nilambur"
+            },
+            {
+              "name": "Parappanangadi"
+            },
+            {
+              "name": "Perinthalmanna"
+            },
+            {
+              "name": "Ponnani"
+            },
+            {
+              "name": "Tanur"
+            },
+            {
+              "name": "Tirur"
+            },
+            {
+              "name": "Tirurangadi"
+            },
+            {
+              "name": "Valanchery"
+            }
+          ]
+        },
+        {
+          "name": "Grama Panchayat",
+          "localBodies": [
+            {
+              "name": "Abdurahiman Nagar"
+            },
+            {
+              "name": "Alamkode"
+            },
+            {
+              "name": "Aliparamba"
+            },
+            {
+              "name": "Amarambalam"
+            },
+            {
+              "name": "Anakkayam"
+            },
+            {
+              "name": "Angadippuram"
+            },
+            {
+              "name": "Areacode"
+            },
+            {
+              "name": "Athavanad"
+            },
+            {
+              "name": "Chaliyar"
+            },
+            {
+              "name": "Cheacode"
+            },
+            {
+              "name": "Chelembra"
+            },
+            {
+              "name": "Cheriyamundam"
+            },
+            {
+              "name": "Cherukavu"
+            },
+            {
+              "name": "Chokkad"
+            },
+            {
+              "name": "Chungathara"
+            },
+            {
+              "name": "Edakkara"
+            },
+            {
+              "name": "Edapal"
+            },
+            {
+              "name": "Edappatta"
+            },
+            {
+              "name": "Edarikode"
+            },
+            {
+              "name": "Edavanna"
+            },
+            {
+              "name": "Edayur"
+            },
+            {
+              "name": "Elamkulam"
+            },
+            {
+              "name": "Irimbiliyam"
+            },
+            {
+              "name": "Kaladi"
+            },
+            {
+              "name": "Kalikavu"
+            },
+            {
+              "name": "Kalpakanchery"
+            },
+            {
+              "name": "Kannamangalam"
+            },
+            {
+              "name": "Karulai"
+            },
+            {
+              "name": "Karuvarakundu"
+            },
+            {
+              "name": "Kavanur"
+            },
+            {
+              "name": "Keezhattur"
+            },
+            {
+              "name": "Keezhuparamba"
+            },
+            {
+              "name": "Kodur"
+            },
+            {
+              "name": "Koottilangadi"
+            },
+            {
+              "name": "Kuruva"
+            },
+            {
+              "name": "Kuttipuram"
+            },
+            {
+              "name": "Kuzhimanna"
+            },
+            {
+              "name": "Makkaraparamba"
+            },
+            {
+              "name": "Mampad"
+            },
+            {
+              "name": "Mangalam"
+            },
+            {
+              "name": "Mankada"
+            },
+            {
+              "name": "Marakkara"
+            },
+            {
+              "name": "Maranchery"
+            },
+            {
+              "name": "Melattur"
+            },
+            {
+              "name": "Moonniyur"
+            },
+            {
+              "name": "Moorkkanad"
+            },
+            {
+              "name": "Moothedam"
+            },
+            {
+              "name": "Morayur"
+            },
+            {
+              "name": "Muthuvalloor"
+            },
+            {
+              "name": "Nannambra"
+            },
+            {
+              "name": "Nannammukku"
+            },
+            {
+              "name": "Niramaruthur"
+            },
+            {
+              "name": "Oorakam"
+            },
+            {
+              "name": "Othukkungal"
+            },
+            {
+              "name": "Ozhur"
+            },
+            {
+              "name": "Pallikkal"
+            },
+            {
+              "name": "Pandikkad"
+            },
+            {
+              "name": "Parappur"
+            },
+            {
+              "name": "Perumanna Klari"
+            },
+            {
+              "name": "Perumpadappa"
+            },
+            {
+              "name": "Peruvalloor"
+            },
+            {
+              "name": "Ponmala"
+            },
+            {
+              "name": "Ponmundam"
+            },
+            {
+              "name": "Pookkottur"
+            },
+            {
+              "name": "Porur"
+            },
+            {
+              "name": "Pothukallu"
+            },
+            {
+              "name": "Pulamanthole"
+            },
+            {
+              "name": "Pulikkal"
+            },
+            {
+              "name": "Pulpatta"
+            },
+            {
+              "name": "Purathur"
+            },
+            {
+              "name": "Puzhakkattiri"
+            },
+            {
+              "name": "Tanalur"
+            },
+            {
+              "name": "Tavanur"
+            },
+            {
+              "name": "Thalakkad"
+            },
+            {
+              "name": "Thazhekkode"
+            },
+            {
+              "name": "Thenhipalam"
+            },
+            {
+              "name": "Thennala"
+            },
+            {
+              "name": "Thirunavaya"
+            },
+            {
+              "name": "Thiruvali"
+            },
+            {
+              "name": "Thrikkalangodu"
+            },
+            {
+              "name": "Triprangode"
+            },
+            {
+              "name": "Tuvvur"
+            },
+            {
+              "name": "Urangattiri"
+            },
+            {
+              "name": "Valavannur"
+            },
+            {
+              "name": "Vallikkunnu"
+            },
+            {
+              "name": "Vattamkulam"
+            },
+            {
+              "name": "Vazhakkad"
+            },
+            {
+              "name": "Vazhayur"
+            },
+            {
+              "name": "Vazhikkadavu"
+            },
+            {
+              "name": "Veliancode"
+            },
+            {
+              "name": "Vengara"
+            },
+            {
+              "name": "Vettathur"
+            },
+            {
+              "name": "Vettom"
+            },
+            {
+              "name": "Wandoor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Kozhikkode",
+      "localBodyTypes": [
+        {
+          "name": "Municipality",
+          "localBodies": [
+            {
+              "name": "Feroke"
+            },
+            {
+              "name": "Koduvally"
+            },
+            {
+              "name": "Koyilandy"
+            },
+            {
+              "name": "Mukkam"
+            },
+            {
+              "name": "Payyoli"
+            },
+            {
+              "name": "Ramanattukara"
+            },
+            {
+              "name": "Vatakara"
+            }
+          ]
+        },
+        {
+          "name": "Corporation",
+          "localBodies": [
+            {
+              "name": "Kozhikkode"
+            }
+          ]
+        },
+        {
+          "name": "Grama Panchayat",
+          "localBodies": [
+            {
+              "name": "Arikkulam"
+            },
+            {
+              "name": "Atholi"
+            },
+            {
+              "name": "Ayancheri"
+            },
+            {
+              "name": "Azhiyur"
+            },
+            {
+              "name": "Balussery"
+            },
+            {
+              "name": "Chakkittapara"
+            },
+            {
+              "name": "Changaroth"
+            },
+            {
+              "name": "Chathamangalam"
+            },
+            {
+              "name": "Chekkiad"
+            },
+            {
+              "name": "Chelannur"
+            },
+            {
+              "name": "Chemanchery"
+            },
+            {
+              "name": "Chengottukavu"
+            },
+            {
+              "name": "Cheruvannur"
+            },
+            {
+              "name": "Chorode"
+            },
+            {
+              "name": "Edacheri"
+            },
+            {
+              "name": "Eramala"
+            },
+            {
+              "name": "Kadalundi"
+            },
+            {
+              "name": "Kakkodi"
+            },
+            {
+              "name": "Kakkur"
+            },
+            {
+              "name": "Karassery"
+            },
+            {
+              "name": "Kattippara"
+            },
+            {
+              "name": "Kavilumpara"
+            },
+            {
+              "name": "Kayakkody"
+            },
+            {
+              "name": "Kayanna"
+            },
+            {
+              "name": "Keezhariyur"
+            },
+            {
+              "name": "Kizhakkoth"
+            },
+            {
+              "name": "Kodanchery"
+            },
+            {
+              "name": "Kodiyathur"
+            },
+            {
+              "name": "Koodaranhi"
+            },
+            {
+              "name": "Koorachundu"
+            },
+            {
+              "name": "Koothali"
+            },
+            {
+              "name": "Kottur"
+            },
+            {
+              "name": "Kunnamangalam"
+            },
+            {
+              "name": "Kunnummal"
+            },
+            {
+              "name": "Kuruvattoor"
+            },
+            {
+              "name": "Kuttiadi"
+            },
+            {
+              "name": "Madavoor"
+            },
+            {
+              "name": "Maniyur"
+            },
+            {
+              "name": "Maruthonkara"
+            },
+            {
+              "name": "Mavoor"
+            },
+            {
+              "name": "Meppayur"
+            },
+            {
+              "name": "Moodadi"
+            },
+            {
+              "name": "Nadapuram"
+            },
+            {
+              "name": "Naduvannur"
+            },
+            {
+              "name": "Nanminda"
+            },
+            {
+              "name": "Narikkuni"
+            },
+            {
+              "name": "Narippatta"
+            },
+            {
+              "name": "Nochad"
+            },
+            {
+              "name": "Olavanna"
+            },
+            {
+              "name": "Omassery"
+            },
+            {
+              "name": "Onchiyam"
+            },
+            {
+              "name": "Panangad"
+            },
+            {
+              "name": "Perambra"
+            },
+            {
+              "name": "Perumanna"
+            },
+            {
+              "name": "Peruvayal"
+            },
+            {
+              "name": "Puduppady"
+            },
+            {
+              "name": "Purameri"
+            },
+            {
+              "name": "Thalakulathur"
+            },
+            {
+              "name": "Thamarassery"
+            },
+            {
+              "name": "Thikkodi"
+            },
+            {
+              "name": "Thiruvallur"
+            },
+            {
+              "name": "Thiruvambadi"
+            },
+            {
+              "name": "Thurayur"
+            },
+            {
+              "name": "Tuneri"
+            },
+            {
+              "name": "Ulliyeri"
+            },
+            {
+              "name": "Unnikulum"
+            },
+            {
+              "name": "Valayam"
+            },
+            {
+              "name": "Vanimal"
+            },
+            {
+              "name": "Velom"
+            },
+            {
+              "name": "Villiappally"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Wayanad",
+      "localBodyTypes": [
+        {
+          "name": "Municipality",
+          "localBodies": [
+            {
+              "name": "Kalpetta"
+            },
+            {
+              "name": "Mananthavady"
+            },
+            {
+              "name": "Sulthan Bathery"
+            }
+          ]
+        },
+        {
+          "name": "Grama Panchayat",
+          "localBodies": [
+            {
+              "name": "Ambalavayal"
+            },
+            {
+              "name": "Edavaka"
+            },
+            {
+              "name": "Kaniyambetta"
+            },
+            {
+              "name": "Kottathara"
+            },
+            {
+              "name": "Meenangadi"
+            },
+            {
+              "name": "Meppadi"
+            },
+            {
+              "name": "Mullankolly"
+            },
+            {
+              "name": "Muppainad"
+            },
+            {
+              "name": "Muttil"
+            },
+            {
+              "name": "Nenmeni"
+            },
+            {
+              "name": "Noolpuzha"
+            },
+            {
+              "name": "Padinharathara"
+            },
+            {
+              "name": "Panamaram"
+            },
+            {
+              "name": "Poothadi"
+            },
+            {
+              "name": "Pozhuthana"
+            },
+            {
+              "name": "Pulpally"
+            },
+            {
+              "name": "Thariode"
+            },
+            {
+              "name": "Thavinhal"
+            },
+            {
+              "name": "Thirunelly"
+            },
+            {
+              "name": "Thondernad"
+            },
+            {
+              "name": "Vellamunda"
+            },
+            {
+              "name": "Vengappally"
+            },
+            {
+              "name": "Vythiri"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Kannur",
+      "localBodyTypes": [
+        {
+          "name": "Municipality",
+          "localBodies": [
+            {
+              "name": "Anthoor"
+            },
+            {
+              "name": "Iritty"
+            },
+            {
+              "name": "Kuthuparamba"
+            },
+            {
+              "name": "Mattanur"
+            },
+            {
+              "name": "Panoor"
+            },
+            {
+              "name": "Payyannur"
+            },
+            {
+              "name": "Sreekandapuram"
+            },
+            {
+              "name": "Thalassery"
+            },
+            {
+              "name": "Thalipparamba"
+            }
+          ]
+        },
+        {
+          "name": "Corporation",
+          "localBodies": [
+            {
+              "name": "Kannur"
+            }
+          ]
+        },
+        {
+          "name": "Grama Panchayat",
+          "localBodies": [
+            {
+              "name": "Alakode"
+            },
+            {
+              "name": "Anjarakandy"
+            },
+            {
+              "name": "Aralam"
+            },
+            {
+              "name": "Ayyankunnu"
+            },
+            {
+              "name": "Azhikode"
+            },
+            {
+              "name": "Chapparapadava"
+            },
+            {
+              "name": "Chembilode"
+            },
+            {
+              "name": "Chengalayi"
+            },
+            {
+              "name": "Cherukunnu"
+            },
+            {
+              "name": "Cherupuzha"
+            },
+            {
+              "name": "Cheruthazham"
+            },
+            {
+              "name": "Chirakkal"
+            },
+            {
+              "name": "Chittariparamba"
+            },
+            {
+              "name": "Chokli"
+            },
+            {
+              "name": "Dharmadam"
+            },
+            {
+              "name": "Eramam Kuttur"
+            },
+            {
+              "name": "Eranholi"
+            },
+            {
+              "name": "Eruvessy"
+            },
+            {
+              "name": "Ezhome"
+            },
+            {
+              "name": "Irikkur"
+            },
+            {
+              "name": "Kadambur"
+            },
+            {
+              "name": "Kadannappally Panapuzha"
+            },
+            {
+              "name": "Kadirur"
+            },
+            {
+              "name": "Kalliasseri"
+            },
+            {
+              "name": "Kanichar"
+            },
+            {
+              "name": "Kankol - Alappadamba"
+            },
+            {
+              "name": "Kannapuram"
+            },
+            {
+              "name": "Karivellur Peralam"
+            },
+            {
+              "name": "Keezhallur"
+            },
+            {
+              "name": "Kelakam"
+            },
+            {
+              "name": "Kolachery"
+            },
+            {
+              "name": "Kolayad"
+            },
+            {
+              "name": "Koodali"
+            },
+            {
+              "name": "Kottayam"
+            },
+            {
+              "name": "Kottiyoor"
+            },
+            {
+              "name": "Kunhimangalam"
+            },
+            {
+              "name": "Kunnothuparamba"
+            },
+            {
+              "name": "Kurumathur"
+            },
+            {
+              "name": "Kuttiattoor"
+            },
+            {
+              "name": "Madayi"
+            },
+            {
+              "name": "Malappattam"
+            },
+            {
+              "name": "Malur"
+            },
+            {
+              "name": "Mangattidam"
+            },
+            {
+              "name": "Mattool"
+            },
+            {
+              "name": "Mayyil"
+            },
+            {
+              "name": "Mokeri"
+            },
+            {
+              "name": "Munderi"
+            },
+            {
+              "name": "Muzhakkunnu"
+            },
+            {
+              "name": "Muzhappilangad"
+            },
+            {
+              "name": "Naduvil"
+            },
+            {
+              "name": "Narath"
+            },
+            {
+              "name": "New Mahe"
+            },
+            {
+              "name": "Padiyoor"
+            },
+            {
+              "name": "Panniyannur"
+            },
+            {
+              "name": "Pappinisseri"
+            },
+            {
+              "name": "Pariyaram"
+            },
+            {
+              "name": "Pattiam"
+            },
+            {
+              "name": "Pattuvam"
+            },
+            {
+              "name": "Payam"
+            },
+            {
+              "name": "Payyavoor"
+            },
+            {
+              "name": "Peralassery"
+            },
+            {
+              "name": "Peravoor"
+            },
+            {
+              "name": "Peringome Vayakkara"
+            },
+            {
+              "name": "Pinarayi"
+            },
+            {
+              "name": "Ramanthali"
+            },
+            {
+              "name": "Thillankery"
+            },
+            {
+              "name": "Triprangottoor"
+            },
+            {
+              "name": "Udayagiri"
+            },
+            {
+              "name": "Ulikkal"
+            },
+            {
+              "name": "Valapattanam"
+            },
+            {
+              "name": "Vengad"
+            }
+          ]
+        },
+        {
+          "name": "Cantonment",
+          "localBodies": [
+            {
+              "name": "Cannanore"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Kasaragod",
+      "localBodyTypes": [
+        {
+          "name": "Municipality",
+          "localBodies": [
+            {
+              "name": "Kanhangad"
+            },
+            {
+              "name": "Kasaragod"
+            },
+            {
+              "name": "Nileshwar"
+            }
+          ]
+        },
+        {
+          "name": "Grama Panchayat",
+          "localBodies": [
+            {
+              "name": "Ajanur"
+            },
+            {
+              "name": "Badiadka"
+            },
+            {
+              "name": "Balal"
+            },
+            {
+              "name": "Bedadka"
+            },
+            {
+              "name": "Bellur"
+            },
+            {
+              "name": "Chemnad"
+            },
+            {
+              "name": "Chengala"
+            },
+            {
+              "name": "Cheruvathur"
+            },
+            {
+              "name": "Delampady"
+            },
+            {
+              "name": "East Eleri"
+            },
+            {
+              "name": "Enmakaje"
+            },
+            {
+              "name": "Kallar"
+            },
+            {
+              "name": "Karadka"
+            },
+            {
+              "name": "Kayyur Cheemeni"
+            },
+            {
+              "name": "Kinanoor - Karinthalam"
+            },
+            {
+              "name": "Kodom Belur"
+            },
+            {
+              "name": "Kumbadaje"
+            },
+            {
+              "name": "Kumbla"
+            },
+            {
+              "name": "Kuttikol"
+            },
+            {
+              "name": "Madhur"
+            },
+            {
+              "name": "Madikai"
+            },
+            {
+              "name": "Mangalpady"
+            },
+            {
+              "name": "Manjeshwar"
+            },
+            {
+              "name": "Meenja"
+            },
+            {
+              "name": "Mogral Puthur"
+            },
+            {
+              "name": "Muliyar"
+            },
+            {
+              "name": "Padne"
+            },
+            {
+              "name": "Paivalike"
+            },
+            {
+              "name": "Pallikere"
+            },
+            {
+              "name": "Panathady"
+            },
+            {
+              "name": "Pilicode"
+            },
+            {
+              "name": "Pullur Periya"
+            },
+            {
+              "name": "Puthige"
+            },
+            {
+              "name": "Trikarpur"
+            },
+            {
+              "name": "Udma"
+            },
+            {
+              "name": "Valiyaparamba"
+            },
+            {
+              "name": "Vorkady"
+            },
+            {
+              "name": "West Eleri"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
