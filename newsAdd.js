@@ -74,13 +74,13 @@ sampleNewsArr.forEach(news => {
   formattedNews["content"] = newsContentCreator(newsContentArr);
 
   formattedNews["summary"] = formattedNews["content"].substr(3, 150);
-  if (news.selection3) {
-    formattedNews["createdDate"] = news.selection3;
-    formattedNews["publishedDate"] = news.selection3;
-  } else {
-    formattedNews["createdDate"] = "December 18, 2018 - 11:03 PM";
-    formattedNews["publishedDate"] = "December 18, 2018 - 11:03 PM";
-  }
+  // if (news.selection3) {
+  formattedNews["createdDate"] = new Date();
+  formattedNews["publishedDate"] = new Date();
+  // } else {
+  //   formattedNews["createdDate"] = "December 18, 2018 - 11:03 PM";
+  //   formattedNews["publishedDate"] = "December 18, 2018 - 11:03 PM";
+  // }
   if (news.selection4) {
     formattedNews["image"] = news.selection4;
   }
